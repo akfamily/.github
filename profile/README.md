@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to AKFamily! Now, AKShare has joined the AKFamily. In addtion to our star project **AKShare**, we are still developing **AKTools**, **AKFDS** and **Awesome-data**.
+Welcome to AKFamily! Now, AKShare has joined the AKFamily. In addition to our star project **AKShare**, we are still developing **AKTools**, **AKFDS** and **Awesome-data**.
 
 ## Introduction
 
