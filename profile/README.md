@@ -14,5 +14,5 @@ Welcome to AKFamily! Now, AKShare has joined the AKFamily. In addition to our st
 
 - **AKQuant** Docs: https://akquant.akfamily.xyz
 - **AKShare** Docs: https://akshare.akfamily.xyz
-- **AKQuant** Docs: https://akquant.akfamily.xyz
+- **AKBroker** Docs: https://akbroker.akfamily.xyz
 - **AKTools** Docs: https://aktools.akfamily.xyz
