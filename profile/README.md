@@ -15,7 +15,7 @@ AKShare（获取财经数据） → AKTools（HTTP API 与 MCP 服务） → AKQ
 | [**AKShare**](https://github.com/akfamily/akshare) | 开源财经数据接口库，覆盖股票、期货、期权、基金、外汇、债券、指数、加密货币和宏观经济数据，一行代码返回 pandas DataFrame | [akshare.akfamily.xyz](https://akshare.akfamily.xyz) | `pip install akshare` |
 | [**AKQuant**](https://github.com/akfamily/akquant) | 基于 Rust 和 Python 的高性能量化投研框架，覆盖从回测到实盘的完整流程 | [akquant.akfamily.xyz](https://akquant.akfamily.xyz) | `pip install akquant` |
 | [**AKTools**](https://github.com/akfamily/aktools) | AKShare 的 HTTP API 与 MCP 服务，任何编程语言或 Claude、Cursor 等 AI 助手都能获取数据 | [aktools.akfamily.xyz](https://aktools.akfamily.xyz) | `pip install aktools` |
-| [**Awesome-quant-data**](https://github.com/akfamily/awesome-quant-data) | 金融与经济数据工具、数据源、量化投研框架和学习资源合集 | — | — |
+| [**Awesome-quant-data**](https://github.com/akfamily/awesome-quant-data) | 金融与经济数据工具、数据源、量化投研框架和学习资源合集 | [akfamily.xyz/awesome-quant-data](https://akfamily.xyz/awesome-quant-data/) | — |
 
 ## 社区与服务
 
