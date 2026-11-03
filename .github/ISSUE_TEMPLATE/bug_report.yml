@@ -1,0 +1,37 @@
+name: 问题报告
+description: 反馈 bug 或异常行为
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交前请先把相关库升级到最新版本，并搜索是否已有相同的 issue。
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: 发生了什么？你期望的结果是什么？
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤
+      description: 请提供可以直接运行的最小代码或命令。
+      render: python
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 报错信息
+      description: 请粘贴完整的报错信息或异常堆栈，不要仅截图。
+      render: shell
+  - type: input
+    id: version
+    attributes:
+      label: 版本信息
+      description: 项目版本、Python 版本、操作系统
+      placeholder: 例如 akquant 0.3.76、Python 3.13、Windows 11
+    validations:
+      required: true
