@@ -17,11 +17,6 @@ AKShare（获取财经数据） → AKTools（HTTP API 与 MCP 服务） → AKQ
 | [**AKTools**](https://github.com/akfamily/aktools) | AKShare 的 HTTP API 与 MCP 服务，任何编程语言或 Claude、Cursor 等 AI 助手都能获取数据 | [aktools.akfamily.xyz](https://aktools.akfamily.xyz) | `pip install aktools` |
 | [**AKHub**](https://github.com/akfamily/akhub) | 金融与经济数据工具、数据源、量化投研框架和学习资源合集 | [akhub.akfamily.xyz](https://akhub.akfamily.xyz) | — |
 
-## 社区与服务
-
-- 实盘交易：证券与期货实盘服务，详见 [AKShare 文档 · 实盘交易](https://akshare.akfamily.xyz/trade.html)
-- 视频课程、微信公众号【数据科学实战】、知识星球和商务合作：见 [akfamily.xyz](https://akfamily.xyz/#community)
-
 ---
 
 AKFamily is an open-source community for financial data and quantitative research: [AKShare](https://github.com/akfamily/akshare) (financial data), [AKTools](https://github.com/akfamily/aktools) (HTTP API and MCP server), and [AKQuant](https://github.com/akfamily/akquant) (backtesting and live trading).
